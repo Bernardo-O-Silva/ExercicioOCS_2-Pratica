@@ -1,6 +1,6 @@
 Exercício OCS Prática - GitHub
 
-Nome do Projeto: Ingredientes de um Bolo 
+Nome do Projeto: Lista de ingredientes e letra de música 
 
 Data: 28/04/2022
 
