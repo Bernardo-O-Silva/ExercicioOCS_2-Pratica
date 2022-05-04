@@ -1,6 +1,0 @@
-----
-poema by Vitoria Ellen
- Um pássaro é azul
- Não gosto de batata baroa 
- Gosto da aula do Honda
- Porque ela e muito boa
